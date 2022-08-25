@@ -45,3 +45,17 @@ button {
     font-size: 18px;
     font-weight: bold;
 }
+
+.high-score {
+    margin-top: 40px;
+    font-size: 25px;   
+}
+
+.current-time {
+    margin-bottom: 10px;
+}
+
+.best-time {
+    font-weight: 700;
+    margin-top: 0;
+}
