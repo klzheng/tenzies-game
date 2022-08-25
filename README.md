@@ -53,7 +53,7 @@ A simple, lovely, tenzi game on a webpage. :smile:
   
 ## Quick-start
 
-Visit the `homepage` URL <a href="https://klzheng.github.io/tenzie-game">here</a> to get started! 
+Visit the `homepage` URL <a href="https://klzheng.github.io/tenzies-game/">here</a> to get started! 
 
   
   
