@@ -6,7 +6,7 @@ body {
 .main-container {
     background: #F5F5F5;
     border-radius: 10px;
-    margin: 20px auto;
+    margin: 100px auto;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -16,10 +16,15 @@ body {
     min-width: 300px;
 }
 
+.main-container > p {
+    margin: 0px 40px;
+}
+
 .dice-container {
     display: grid;
     grid-template: repeat(2, 1fr) / repeat(5, 1fr);
     grid-gap: 18px;
+    margin-top: 50px;
 }
 
 .dice {
